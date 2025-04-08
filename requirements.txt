@@ -1,0 +1,6 @@
+telebot
+flask
+groq
+stripe
+requests
+sqlite3-binary
