@@ -1,4 +1,4 @@
-mport telebot
+import telebot
 from flask import Flask
 from threading import Thread
 from groq import Groq
