@@ -1,6 +1,5 @@
-telebot
+pyTelegramBotAPI
 flask
 groq
 stripe
 requests
-sqlite3-binary
